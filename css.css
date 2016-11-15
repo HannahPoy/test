@@ -1,19 +1,17 @@
-h1{
-  color:red;
+body{
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMqaXtAaqPGaoLu6OIVcMQ0MAN8S7N3LwQ1d20rRwTOI-ume3H");
 }
 
-.yellow {
-	background-color: #ffca00;
+.titlee {
+	color: black;
+	font-family: Georgia, Times;
+	text-align: center;
+	font-size: 35pt
 }
 
-.black {
-	background-color: #000000;
-}
-
-.white {
-	background-color: #ffffff;
-}
-
-.grey {
-	background-color: #3F3F3F;
+div.transbox{
+	background-color: #858585;
+	filter: alpha(opacity=60);
+	margin: 5%;
+	opacity: 0.8;
 }
